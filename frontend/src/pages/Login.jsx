@@ -139,3 +139,12 @@ export default function Login() {
     </div>
   );
 }
+<footer>
+  <a
+    href="https://github.com/Sneha-sanganna/FUTURE_FS_02"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    View Source Code on GitHub
+  </a>
+</footer>
