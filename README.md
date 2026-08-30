@@ -6,7 +6,11 @@ A simple web-based CRM application for managing client leads generated through w
 
 🔗 Project Links
 🌐 Live Demo: https://future-fs-02-frontend-vahn.onrender.com
+
+
 💻 GitHub: https://github.com/Sneha-sanganna/FUTURE_FS_02
+
+
 ✨ Features
 🔐 Admin Login
 👥 Lead Management
