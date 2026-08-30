@@ -138,7 +138,7 @@ FUTURE_FS_02/
 
 
 🚀 Running the Project Locally
-Backend
+---Backend
 
 cd backend
 
@@ -149,13 +149,15 @@ npm start
 Create a .env file inside the backend folder:
 
 MONGO_URI=your_mongodb_connection_string
-Frontend
+
+---Frontend
 
 Open another terminal:
 
 cd frontend
 npm install
 npm run dev
+
 🌐 Deployment
 
 Frontend: Render
@@ -164,7 +166,7 @@ Backend: Render
 
 Database: MongoDB Atlas
 
-Live Application
+📌Live Application
 
 https://future-fs-02-frontend-vahn.onrender.com
 
@@ -182,6 +184,7 @@ Authentication
 Frontend and Backend Integration
 Git and GitHub
 Web Application Deployment
+
 👩‍💻 Developed By
 
 Sneha
