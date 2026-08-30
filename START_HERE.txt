@@ -1,0 +1,38 @@
+CLIENT LEAD MANAGEMENT SYSTEM — START HERE
+
+1. Open this folder in VS Code.
+
+2. MongoDB:
+   - Create a MongoDB Atlas cluster.
+   - Copy the connection string.
+   - In backend, copy .env.example to .env.
+   - Put your MongoDB connection string into MONGO_URI.
+   - You can keep the demo admin:
+       ADMIN_EMAIL=admin@example.com
+       ADMIN_PASSWORD=Admin@123
+
+3. Backend terminal:
+   cd backend
+   npm install
+   npm run seed
+   npm run dev
+
+4. Frontend terminal:
+   cd frontend
+   npm install
+   npm run dev
+
+5. Open:
+   http://localhost:5173
+
+6. Login:
+   admin@example.com
+   Admin@123
+
+7. Public contact form:
+   http://localhost:5173/contact
+
+IMPORTANT:
+- Do NOT upload backend/.env to GitHub.
+- You must have a working MongoDB connection before the backend can start.
+- The project uses React + Node.js/Express + MongoDB as requested by the task.
